@@ -1,8 +1,5 @@
 # **AR Designs**
   ## A repository for hosting design files for my repository.
-  ### features 
 
-  1) free to use designs
-  2) file formats in .sketch filetype
-  3) clean UI
-     
+ Apple TV redesign
+ ![Apple TV@2x](https://github.com/user-attachments/assets/0f88425d-97f4-4abd-b617-9dd2e8a8a593)
